@@ -1,0 +1,2 @@
+# individual_codinglab_python_sem2
+This repository is for my Individual coding lab for Introduction_to_Programming_and_Databases
