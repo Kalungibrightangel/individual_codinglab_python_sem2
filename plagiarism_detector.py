@@ -1,5 +1,5 @@
 """ 
-This program is used to detect plagiarism between two essays, check if the word input by the user is in both essays
+This programme is used to detect plagiarism between two essays, check if the word input by the user is in both essays
 and also count the frequency of words in both essays the essays.
 
 """
